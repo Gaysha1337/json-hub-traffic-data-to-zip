@@ -1,0 +1,28 @@
+url = "http://www.pornhub.com/webmasters/video_by_id?id=44bc40f3bc04f65b7a35&thumbsize=medium"
+
+Parameters:
+- id (Required) Integer
+
+- thumbsize (Optional) If set, provides additional thumbnails in different formats. Possible values are small,medium,large,small_hd,medium_hd,large_hd
+
+http://www.pornhub.com/webmasters/video_by_id?id=44bc40f3bc04f65b7a35&thumbsize=medium
+
+Parameters:
+- category (Optional)
+
+- page (Optional) Integer
+
+- search (Optional) Text
+
+- stars (Optional) Array
+
+- tags (Optional) Array
+
+- ordering (Optional) Text. Possible values are featured, newest, mostviewed and rating
+
+- period (Optional) Text. Only works with ordering parameter. Possible values are weekly, monthly, and alltime
+
+- thumbsize (Required). Possible values are small,medium,large,small_hd,medium_hd,large_hd
+
+http://www.pornhub.com/webmasters/search?id=44bc40f3bc04f65b7a35&search=hard&tags[]=Teen&thumbsize=medium
+
